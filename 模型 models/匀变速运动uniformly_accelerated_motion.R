@@ -4,11 +4,6 @@ v1 <- n_athelete_0
 total_t <- splits |> 
   pull(`100`) |> 
   max()
-rt <- splits |> 
-  pull(RT)
-min_rt <- min(rt)
-max_rt <- max(rt)
-min_ms <- min_rt / 0.001
 for (i in 0:(total_t / 0.001)) {
   time <- c(time, rep(0.001 * i, n_athelete))
   i_over_1000 <- i / 1000
