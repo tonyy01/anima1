@@ -1,0 +1,14 @@
+library(tidyverse)
+
+splits <- read_csv(file.choose())
+n_athelete <- nrow(splits)
+n_athelete_0 <- rep(0, n_athelete)
+split <- n_athelete_0
+distance <- c(rep(0, n_athelete * min_ms), 0) # plus 1 to min_ms since 0 is also 
+# considered
+time <- NULL
+s <- n_athelete_0
+t <- n_athelete_0
+athlete <- splits |> 
+  pull(Athlete)
+finished_athlete <- NULL
