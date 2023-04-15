@@ -4,6 +4,18 @@ README
 
 Animate 100 metre race using splits data
 
+## Content
+
+1. [Installation](https://github.com/tonyy0001/100-animation/edit/main/README.md#installation)
+
+2. [Running](https://github.com/tonyy0001/100-animation/edit/main/README.md#Running)
+
+3. [Runtime](https://github.com/tonyy0001/100-animation/edit/main/README.md#Runtime)
+
+4. [Models](https://github.com/tonyy0001/100-animation/edit/main/README.md#Models) 
+
+   - [Uniformly Acelerated Motion](https://github.com/tonyy0001/100-animation/edit/main/README.md#uniformly-acelerated-motion)
+
 ## Installation
 
 Install [R](https://cran.r-project.org/bin/windows/base/)
