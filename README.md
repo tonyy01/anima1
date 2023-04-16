@@ -61,3 +61,11 @@ if s is in the next section
 5. $a = {2((10-s_{exceeded})-v_0t_{next})\over t_{next}^2}$
 
 6. go back to 2
+
+Advantage:
+
+Physics based model
+
+Disadvantages:
+
+Since the velocity of this model is related to $t^2$, whose derivative is $2t$. This means that the speed will become larger as the time passed during each section. As a consequence, the speed of the athletes may be unstable. 
