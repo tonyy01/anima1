@@ -59,3 +59,31 @@ Physics based model
 Disadvantage:
 
 Since the velocity of this model is related to $t^2$, whose derivative is $2t$. This means that the speed will become larger as the time passed during each section. As a consequence, the speed of the athletes may be unstable. 
+
+## Gallery
+
+If you think your video is doing well, you can upload it to the "gallery" folder, whose file name should be
+
+(year) (location) (competition) (gender) (race) (model)
+
+where (competition) should be either: 
+
+1. Olympics
+
+2. World Championships
+
+3. Diamond (Diamond League)
+
+4. Other competitions
+
+(race) should be either:
+
+1. H(group) (Heat(group)) i.e. H1 for the first group in Heat
+
+2. SF(group)
+
+3. F
+
+4. Other races
+
+i.e. 2009 Berlin World Championships Men F uniformly_accelerated_motion
