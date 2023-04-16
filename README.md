@@ -1,5 +1,3 @@
-
-
 https://user-images.githubusercontent.com/94228508/232267381-2cfc341e-1df0-4ccc-a948-f9e4c73a40a8.mp4
 
 # 100-animation
