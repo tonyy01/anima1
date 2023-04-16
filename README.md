@@ -4,8 +4,6 @@ https://user-images.githubusercontent.com/94228508/232267381-2cfc341e-1df0-4ccc-
 
 # 100-animation
 
-Animate 100 metre race using splits data
-
 ## Installation
 
 Install [R](https://cran.r-project.org/bin/windows/base/)
