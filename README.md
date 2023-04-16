@@ -66,6 +66,6 @@ Advantage:
 
 Physics based model
 
-Disadvantages:
+Disadvantage:
 
 Since the velocity of this model is related to $t^2$, whose derivative is $2t$. This means that the speed will become larger as the time passed during each section. As a consequence, the speed of the athletes may be unstable. 
