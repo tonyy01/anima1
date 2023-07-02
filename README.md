@@ -12,7 +12,7 @@ Alternative: If you prefer better UI, please install [RStudio](https://posit.co/
 
 The running procedure of the code should be
 
-1. data_importing_variables_defining.R
+1. data_importing.R
 
 2. models/(model).R
 
